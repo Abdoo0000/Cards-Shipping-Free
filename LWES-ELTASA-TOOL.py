@@ -12,7 +12,7 @@ else :
 os.system ("clear")
 time.sleep(2)
 print ("\033[0;33m Made Py »LWES ELTASA HACK«")
-print ("\033[0;33m WA »01283494525«")
+print ("\033[0;33m WA »01283494514«")
 print ("\033[0;33m Youtube »LWES ELTASA HACK")
 #colors
 print ("\033[0;32mMMMMMMMMMMMMNho++/----:+syydmMMMMMMMMMMM")
