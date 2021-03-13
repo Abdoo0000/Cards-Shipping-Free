@@ -2,10 +2,10 @@ import os
 import time
 os.system("clear")
 
-v = "lozer"
+v = "love-you"
 password = input("password : ")
 if password == v :
-    print ("loding..")
+    print ("love-you-to ≈)")
 else :
     kosmak
     
@@ -55,7 +55,7 @@ print ("\033[0;31m 2-vodafon")
 
 m = input("inter numper: ")
 if m != 2 :
-	x = 7502978081578814
+	x = 7281822063191102
 while x < 9999999999999999:
 	x=x+11
 	print (x)
