@@ -59,7 +59,7 @@ if m != 2 :
 while x < 9999999999999999:
 	x=x+11
 	print (x)
-	time.sleep(2)
+	time.sleep(0.2) 
 else :
 		n = 8029725739715728
 while n < 8888888888888888 :
