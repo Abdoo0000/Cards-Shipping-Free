@@ -55,7 +55,6 @@ print ("\033[0;31m    MMMNMMMMMMMMMMNNNNMMMMNNmmNNNNMMMMMMMMMMMMMMMMNMM.")
 print ("\033[0;31m    MMMNNMMMMMMMMMMMMMMMMNNNNmNNNNMMMMMMMMMMMMMMMNNMM.")
 print ("\033[0;31m    MMMMMNMMMMMMMMMMMMMNMMMNMNMMMMMMMMMMMMMMMMMMNMMMM.")
 print ("\033[0;31m    MMMMMMNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNMMMMM.")
-print ("MMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmNNNNNNNN.")
 
 print ('''\033[0;92m div by :
     	$$$$$$$$$$$$$$$$$$$$$$$
@@ -79,7 +78,7 @@ if m != 2 :
 while x < 9999999999999999:
 	x=x+11
 	c=c+1
-	print ("\033[0;92Card num" , c , "»" ,x)
+	print ("\033[0;92mCard num" , c , "»" ,x)
 	time.sleep(0.2) 
 else :
 		n = 8029725739715728
