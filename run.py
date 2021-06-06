@@ -3,6 +3,7 @@ import time
 import webbrowser
 os.system("clear")
 
+os.system('xdg-open https://youtube.com/channel/UC8AxGnNNu8M4Q4fM0trOYyQ')
 v = "LwesEltasaHack"
 print ("password is : LwesEltasaHack")
 password = input("password : ")
