@@ -4,9 +4,10 @@ import webbrowser
 os.system("clear")
 
 v = "LwesEltasaHack"
+print ("password is : LwesEltasaHack")
 password = input("password : ")
 if password == v :
-    print ("\033[0;91mlove-you-to ≈)")
+    os.system('xdg-open https://youtube.com/channel/UC8AxGnNNu8M4Q4fM0trOYyQ')
     time.sleep(1)
 else :
     kosmak
